@@ -1,0 +1,22 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import random
+
+    # your sentence is assigned to the variable
+    sentence = input().split()
+
+    # write your python code below
+
+
+    # shows the message
+    print(' '.join(sentence))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6268#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 05 Jan 2021 18:51:57 UTC
+record: -1

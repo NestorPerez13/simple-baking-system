@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    class PiggyBank:
+        # create __init__ and add_money methods
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6987#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 05 Jan 2021 21:46:05 UTC
+record: -1
